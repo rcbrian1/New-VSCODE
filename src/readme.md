@@ -1,0 +1,2 @@
+ChatGPT (acrónimo del inglés Chat Generative Pre-Trained) es una aplicación de chatbot de inteligencia artificial generativa desarrollada en 2022, por OpenAI. 
+El chatbot es un modelo de lenguaje especializado en el diálogo que se ajusta con técnicas de aprendizaje supervisadas y de refuerzo.[1]​ Está compuesto por los modelos GPT-3, GPT-4, GPT-4o, y sus previews OpenAI-o1, OpenAI-o1 mini y GPT-5.
